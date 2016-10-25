@@ -11,10 +11,10 @@
     <string name="loading">Yükleniyor</string>
     <string name="loading_more">Daha fazlası yükleniyor…</string>
     <string name="action_search">Ara</string>
-    <string name="action_bookmark">Bookmark</string>
-    <string name="action_add_to_bookmark">Add to Bookmark</string>
-    <string name="action_refresh">Refresh</string>
-    <string name="action_stop">Stop</string>
+    <string name="action_bookmark">Yer işaretleri</string>
+    <string name="action_add_to_bookmark">Yer işaretlerine ekle</string>
+    <string name="action_refresh">Yenile</string>
+    <string name="action_stop">Durdur</string>
     <string name="action_reverse">Reverse</string>
     <string name="action_set_watched">Set Watched</string>
     <string name="action_remove_watched">Remove Watched</string>
