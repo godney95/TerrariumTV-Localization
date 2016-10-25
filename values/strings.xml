@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="language_zh_tw">Traditional Chinese</string>
-    <string name="language_zh_cn">Simplified Chinese</string>
+    <string name="language_zh_tw">Geleneksel Çince</string>
+    <string name="language_zh_cn">Basitleştirilmiş Çince</string>
     <string name="language_en">English</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Ayarlar</string>
 
-    <string name="no_data">No Data</string>
-    <string name="no_internet">No Internet connection</string>
-    <string name="loading">Loading</string>
-    <string name="loading_more">Loading More…</string>
-    <string name="action_search">Search</string>
+    <string name="no_data">Veri yok</string>
+    <string name="no_internet">İnternet bağlantısı yok</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="loading_more">Daha fazlası yükleniyor…</string>
+    <string name="action_search">Ara</string>
     <string name="action_bookmark">Bookmark</string>
     <string name="action_add_to_bookmark">Add to Bookmark</string>
     <string name="action_refresh">Refresh</string>
